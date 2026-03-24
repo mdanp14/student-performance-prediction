@@ -24,7 +24,7 @@ This project predicts student performance levels (High, Medium, Low) using machi
 | Decision Tree       | 72%     |
 | KNN                 | 76%     |
 | Neural Network      | ~77–79% |
----
+
 ## Insights
 - Higher engagement → better performance  
 - More absences → lower performance  
