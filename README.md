@@ -2,7 +2,6 @@
 This project predicts student performance levels (High, Medium, Low) using machine learning models based on behavioral, academic, and engagement features.
 
 ## Dataset
-- Source: Kaggle (xAPI-Edu-Data)
 - Includes student demographics, participation, attendance, and parental involvement.
 
 ## Methods
